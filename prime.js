@@ -1,3 +1,4 @@
+
   function prime(number){
 factors=0;
     for(let i=1;i=<num;i++){
@@ -8,6 +9,7 @@ factors=0;
  if(factors==2){
   return true;}
 return false;
+
 
 }
 let answer=checkprime(7);
